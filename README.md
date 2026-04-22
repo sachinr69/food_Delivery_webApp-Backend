@@ -1,33 +1,16 @@
-# food_Delivery_webApp-Backend
+Food-Dash Repository  
+By – Sachin Kumar Nayak
+ 
+This document serves as a centralized location for all relevant links and files related to the ongoing project. Please use the designated placeholders to add the necessary resources as they become available. 
 
-FoodDash is a modern, high-performance food delivery platform designed to connect users with their favorite local restaurants. It features a seamless user experience from browsing menus to secure checkout.
+Frontend Url - https://dash-delivery.vercel.app/
 
-Key Features User Authentication: Secure Sign-up and Login using JWT (JSON Web Tokens) or Firebase.
+Backend Url -https://mini-project-backend-1-zk9v.onrender.com/ 
+ 
+Github Frontend Url - 
+https://github.com/sachinr69/food_Delivery_webApp-Frontend/tree/sachin 
+ 
+Github Backend Url - https://github.com/sachinr69/food_Delivery_webApp-Frontend/tree/sachin    
 
-Dynamic Menu: Browse restaurants by category, rating, or price range.
 
-Live Search: Fast search functionality for specific dishes or restaurant names.
-
-Cart System: Real-time cart updates with persistent storage.
-
-Secure Payments: Integrated with Stripe / Razorpay for safe transactions.
-
-Order Tracking: Users can view their order status and history.
-
-Responsive UI: Fully optimized for Mobile, Tablet, and Desktop views.
-
-Tech Stack Frontend Framework: React.js
-
-Styling: Bootstrap css
-
-State Management: Redux Toolkit / Context API
-
-Backend Environment: Node.js
-
-Framework: Express.js
-
-Database: MongoDB with Mongoose
-
-Auth: JWT
-
-Deployment & Tools Hosting: Vercel (Frontend), Render (Backend) Testing: Postman
+Github Backend Url - https://github.com/sachinr69/food_Delivery_webAppFrontend/tree/sachin
